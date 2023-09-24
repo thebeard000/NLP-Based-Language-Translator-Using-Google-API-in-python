@@ -74,6 +74,18 @@ pip install gtts
 
 Ensure that you have these libraries and their specified versions in your requirements.txt file. You can install them using pip install -r requirements.txt.
 
+## Usage
+
+To use the Multilingual Language Translator with OCR, follow these steps:
+
+1. Run the application.
+2. Choose the desired translation settings.
+3. Upload an image with text or input text using the GUI.
+4. Perform translations, and utilize additional features as needed.
+5. Enjoy seamless multilingual communication!
+
+This application is designed to enhance language translation and communication, making it easier for users to interact across language barriers.
+
 ## Supported Languages
 
 The Multilingual Language Translator with OCR supports translation to and from the following languages:
@@ -187,17 +199,7 @@ The Multilingual Language Translator with OCR supports translation to and from t
 
 With support for this extensive list of languages, the application ensures effective communication across various linguistic boundaries.
 
-## Usage
 
-To use the Multilingual Language Translator with OCR, follow these steps:
-
-1. Run the application.
-2. Choose the desired translation settings.
-3. Upload an image with text or input text using the GUI.
-4. Perform translations, and utilize additional features as needed.
-5. Enjoy seamless multilingual communication!
-
-This application is designed to enhance language translation and communication, making it easier for users to interact across language barriers.
 
 
 
