@@ -232,6 +232,7 @@ With support for this extensive list of languages, the application ensures effec
 If you have any questions, suggestions, or contributions, please feel free to reach out to the project maintainer:
 
 Yashas S
+
 Email: yashasmanu123@gmail.com
 
 
