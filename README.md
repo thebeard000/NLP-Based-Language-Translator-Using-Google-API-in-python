@@ -3,6 +3,26 @@
 -Multimodal Translation: Enables translation from speech to target language via speech and text inputs, facilitating seamless communication.
 -Revolutionary OCR Text-to-Speech: the translation of text from images into speech, offering an unparalleled and powerful solution for image-based content translation.
 
+![1](https://github.com/thebeard000/NLP-Based-Language-Translator-Using-Google-API-in-python/assets/103173081/21e50a4b-be1e-40ab-b071-a836b7495855)
+
+
+
+https://github.com/thebeard000/NLP-Based-Language-Translator-Using-Google-API-in-python/assets/103173081/008715d7-6f5a-4140-ba18-349da473b466
+
+
+## Table of Contents
+
+- [About](#about)
+- [Key Features](#key-features)
+- [Text Processing Algorithms](#text-processing-algorithms)
+- [Speech Processing Techniques](#speech-processing-techniques)
+- [Text-Image Processing Techniques](#text-image-processing-techniques)
+- [System Specifications](#system-specifications)
+- [Supported Languages](#supported-languages)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- 
 ## Key Features
 
 - Multimodal Translation: Enables translation from speech to target language via speech and text inputs.
@@ -29,6 +49,9 @@ The Multilingual Language Translator with OCR incorporates various text processi
 
 - **Lemmatization**: Lemmatization converts words to their base form while considering context and part-of-speech (POS). It ensures more accurate translations by preserving the meaning of words.
 
+  ![3](https://github.com/thebeard000/NLP-Based-Language-Translator-Using-Google-API-in-python/assets/103173081/fa7ae689-cbb0-4cec-91ce-abe4bccbe355)
+
+
 ## Speech Processing Techniques
 
 The application also includes speech processing techniques to handle spoken language:
@@ -39,6 +62,9 @@ The application also includes speech processing techniques to handle spoken lang
 
 - **Named Entity Recognition (NER)**: NER identifies and extracts relevant information such as names, places, and dates from speech, making translations more context-aware.
 
+![3](https://github.com/thebeard000/NLP-Based-Language-Translator-Using-Google-API-in-python/assets/103173081/a80d0c65-2ad5-41d7-b2a7-b0384fdb3836)
+
+
 ## Text-Image Processing Techniques
 
 In addition to text and speech processing, the application utilizes text-image processing techniques:
@@ -48,6 +74,8 @@ In addition to text and speech processing, the application utilizes text-image p
 - **Object Recognition**: Object recognition identifies and labels objects in an image, providing additional context for translation when images contain objects or scenes.
 
 - **Text Detection and Extraction**: Text detection and extraction techniques are employed to detect and extract text from images. This ensures that text content within images can be accurately translated.
+
+![4](https://github.com/thebeard000/NLP-Based-Language-Translator-Using-Google-API-in-python/assets/103173081/80334b6a-6d67-4ea0-80aa-966207068e17)
 
 
 ## System Specifications
@@ -200,7 +228,11 @@ The Multilingual Language Translator with OCR supports translation to and from t
 With support for this extensive list of languages, the application ensures effective communication across various linguistic boundaries.
 
 
+## Contributing
+If you have any questions, suggestions, or contributions, please feel free to reach out to the project maintainer:
 
+Yashas S
+Email: yashasmanu123@gmail.com
 
 
 ## Installation
